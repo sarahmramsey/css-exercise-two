@@ -46,10 +46,22 @@ li {
   font-weight: 100;
 }
 
-a:link {color:#0070BB; }
+a:link {color:#0070BB; text-decoration: none;}
 a:visited {color:#0070BA; }
 a:hover {color:#0070BC; }
 a:active {color:#0070BD; }
+
+figcaption {
+  font-size: 0.85em;
+}
+
+h1 {
+  font-size: 2.75em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
 
 article {
   padding-top: 100px;
